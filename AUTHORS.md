@@ -1,5 +1,7 @@
 Sinatra was designed and developed by Blake Mizerany in California.
 
+
+// Ron Shalevich
 ### Current Team
 
 * **Konstantin Haase** (maintainer)

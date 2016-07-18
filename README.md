@@ -8,7 +8,7 @@ quickly creating web applications in Ruby with minimal effort:
 require 'sinatra'
 
 get '/' do
-  'Hello world!'
+  'HelloHello world!'
 end
 ```
 
